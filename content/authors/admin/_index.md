@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student in social psychology at the University of Toronto, where I work with Wil Cunningham in the Social Cognitive Sciences lab [link]. My research takes a social cognition approach to studying stereotyping, prejudice, and discrimination using a variety of methods including behavioural studies, computational modeling, fMRI, and eye-tracking.
+I am a PhD student in social psychology at the University of Toronto, where I work with Wil Cunningham. My research takes a social cognition approach to studying stereotyping, prejudice, and discrimination using a variety of methods including behavioural studies, computational modeling, fMRI, and eye-tracking.
 
 I am interested in the low-level cognitive processes that function to maintain prejudice, inequality, and group hierarchies. Acknowledging that racism and sexism are structural phenomena, my aim is to bridge levels of analysis to discover how contexts and systems influence individual cognitions, as well as how individuals in turn perpetuate systems.
 
