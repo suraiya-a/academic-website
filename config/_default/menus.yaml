@@ -8,13 +8,13 @@ main:
     url: '#about'
     weight: 10
   - name: Research
-    url: '#projects'
+    url: research/
     weight: 20
   - name: Publications
-    url: '#publications'
+    url: pubs/
     weight: 30
   - name: Contact
-    url: '#contact'
+    url: contact/
     weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
@@ -23,10 +23,3 @@ main:
     url: uploads/CV 09-2021.pdf
     weight: 50
 
-  - name: Research
-    url: research/
-    weight: 60
-
-  - name: Publications
-    url: pubs/
-    weight: 70
