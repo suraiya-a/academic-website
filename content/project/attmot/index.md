@@ -4,6 +4,7 @@ summary: As part of my dissertation research, I am examining how motivations ste
 tags:
 date: "2021-09-29"
 weight: 2
+view: 5
 
 # added this to remove project page
 _build:
