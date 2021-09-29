@@ -2,11 +2,20 @@
 title: Structural motivations and attention in social categorization
 summary: As part of my dissertation research, I am examining how motivations stemming from structural inequalities and schemas can influence the way we categorize the social world. Rather than assuming that people simply divide the social world into the most salient categories available to them (e.g. race and gender), this work aims to uncover how the very categorizations that we make can contribute to systemic inequalities. I am using a combination of artificial social groups to understand the mechanisms at play and real social groups to examine the generality and applicability of these findings.
 tags:
-date: "2016-04-27T00:00:00Z"
+date: "2021-09-29"
 weight: 2
 
+# added this to remove project page
+_build:
+  render: never
+#cascade:
+#  _build:
+#    render: never
+#    list: always
+
+
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+#external_link: ""
 
 #image:
 #  caption: Photo by rawpixel on Unsplash
@@ -31,3 +40,4 @@ slides: ""
 ---
 
 
+As part of my dissertation research, I am examining how motivations stemming from structural inequalities and schemas can influence the way we categorize the social world. Rather than assuming that people simply divide the social world into the most salient categories available to them (e.g. race and gender), this work aims to uncover how the very categorizations that we make can contribute to systemic inequalities. I am using a combination of artificial social groups to understand the mechanisms at play and real social groups to examine the generality and applicability of these findings.
