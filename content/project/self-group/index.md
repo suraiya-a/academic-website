@@ -12,6 +12,7 @@ summary: "In another line of research, I examine how people navigate trade-offs 
 
 - Does helping an ingroup member rely on the same types of cognitive processes as helping an outgroup member?"
 
+weight: 3
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
