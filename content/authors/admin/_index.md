@@ -6,7 +6,7 @@ title: Suraiya Allidina
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -42,16 +42,16 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:suraiya.allidina@mail.utoronto.ca'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SuraiyaAllidina
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=SBuBkg4AAAAJ&hl=en&oi=ao
-- icon: github
-  icon_pack: fab
-  link: https://github.com/sallidina
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/sallidina
 - icon: linkedin
   icon_pack: fab
   link: https://ca.linkedin.com/in/suraiya-allidina-b8a584112
