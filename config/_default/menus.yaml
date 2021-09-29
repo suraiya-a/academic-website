@@ -23,4 +23,10 @@ main:
     url: uploads/CV 09-2021.pdf
     weight: 50
 
+  - name: Research
+    url: research/
+    weight: 60
 
+  - name: Publications
+    url: pubs/
+    weight: 70
