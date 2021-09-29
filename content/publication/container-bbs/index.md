@@ -21,7 +21,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Behavioral and Brain Sciences"
-publication_short: "BBS"
+publication_short: ""
 
 abstract: ""
 

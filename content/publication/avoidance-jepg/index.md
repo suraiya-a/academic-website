@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Experimental Psychology: General"
-publication_short: "JEP:G"
+publication_short: ""
 
 abstract: "Research on stereotype formation has proposed a variety of reasons for how inaccurate stereotypes arise, focusing largely on accounts of motivation and cognitive efficiency. Here, we instead consider how stereotypes arise from basic processes of approach and avoidance in social learning. Across five studies, we show that initial negative interactions with some members of a group can cause subsequent avoidance of the entire group, and that this avoidance perpetuates stereotypes in two ways. First, when information gain is contingent on approaching the target, avoidance restricts the information available with which to update one’s beliefs. Second, computational models that consider the perceiver’s full reinforcement history demonstrate that avoidance directly reinforces itself, such that initial avoidance of group members increases the probability of later acts of avoidance toward that group. Finally, we find initial evidence for a potential dissociation between behavior and explicit beliefs, with avoidance reinforcing avoidant behaviors without necessarily affecting self-reported beliefs. Overall, these results suggest that avoidance behaviors toward members of social groups can perpetuate inaccurate negative beliefs and expectations about those groups, such that initial interactions with a group have a compounding effect on overall impressions."
 
