@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Suraiya Allidina
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Social Cognitive Science Lab
+  url: https://socialcognitivescience.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: This is my bio.
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +45,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/SuraiyaAllidina
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=SBuBkg4AAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sallidina
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://ca.linkedin.com/in/suraiya-allidina-b8a584112
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +70,11 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in social psychology at the University of Toronto, where I work with Wil Cunningham in the Social Cognitive Sciences lab [link]. My research takes a social cognition approach to studying stereotyping, prejudice, and discrimination using a variety of methods including behavioural studies, computational modeling, fMRI, and eye-tracking.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am interested in the low-level cognitive processes that function to maintain prejudice, inequality, and group hierarchies. Acknowledging that racism and sexism are structural phenomena, my aim is to bridge levels of analysis to discover how contexts and systems influence individual cognitions, as well as how individuals in turn perpetuate systems.
+
+In my spare time, you can find me watching women’s soccer, reading fantasy novels, or learning how to whittle.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
