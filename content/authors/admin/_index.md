@@ -14,7 +14,7 @@ organizations:
   url: https://socialcognitivescience.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is my bio.
+bio:
 
 # Interests to show in About widget
 #interests:
@@ -75,6 +75,3 @@ I am a PhD student in social psychology at the University of Toronto, where I wo
 I am interested in the low-level cognitive processes that function to maintain prejudice, inequality, and group hierarchies. Acknowledging that racism and sexism are structural phenomena, my aim is to bridge levels of analysis to discover how contexts and systems influence individual cognitions, as well as how individuals in turn perpetuate systems.
 
 In my spare time, you can find me watching women’s soccer, reading fantasy novels, or learning how to whittle.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
