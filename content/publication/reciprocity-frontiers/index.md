@@ -19,7 +19,7 @@ publishDate: 2021-09-28T22:36:30-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Behavioral and Brain Sciences"
+publication: "Frontiers in Psychology"
 publication_short: ""
 
 abstract: ""
