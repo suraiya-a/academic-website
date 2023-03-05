@@ -1,29 +1,29 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The labelled container: Conceptual development of social group representations"
+title: "Decoupling the conflicting evaluative meanings in automatically activated race-based associations"
 authors:
-- Rebekah Gelpi
 - admin
-- Daniel Hoyer
+- Elizabeth Long
+- Wyle Baoween
 - William Cunningham
-date: "2022-01-01"
+date: "2023-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: 2021-09-28T22:37:21-04:00
+publishDate: 2021-09-28T22:36:06-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Behavioral and Brain Sciences"
+publication: "Personality and Social Psychology Bulletin"
 publication_short: ""
 
-abstract: ""
+abstract: "Implicit measures of attitudes have classically focused on the association between a social group and generalized valence, but debate exists surrounding how these associations arise and what they can tell us about beliefs and attitudes. Here, we suggest that representations of oppression, which relate positively to implicitly measured prejudice but negatively to explicitly measured prejudice, can serve to decrease the predictive validity of implicit measures through statistical suppression. We had participants complete a Black–White implicit association test (IAT) and an IAT measuring representations of oppression, and find that oppression-related representations statistically suppress the relation between IAT scores and explicit attitudes, such that accounting for these representations increases the total amount of variance explained by implicit measures. We discuss the implications of this work both for practical matters around use of the IAT and for theoretical debates on the conceptualization of valence in implicit attitudes."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -40,7 +40,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: publication/iat-pspb/iat-pspb.pdf
 url_code:
 url_dataset:
 url_poster:
