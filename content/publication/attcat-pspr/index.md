@@ -5,7 +5,7 @@ title: "Motivated categories: Social structures shape the construction of social
 authors:
 - admin
 - William A. Cunningham
-date: "in press"
+date: "2023-05-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
