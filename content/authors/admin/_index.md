@@ -6,12 +6,12 @@ title: Suraiya Allidina
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Post-doctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Social Cognitive Science Lab
-  url: https://socialcognitivescience.ca/
+- name: The Ohio State University
+#  url: https://socialcognitivescience.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -42,7 +42,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:suraiya.allidina@mail.utoronto.ca'
+  link: 'mailto:allidina.1@osu.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SuraiyaAllidina
@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student in social psychology at the University of Toronto, where I work with Wil Cunningham. My research takes a social cognition approach to studying stereotyping, prejudice, and discrimination using a variety of methods including behavioural studies, computational modeling, fMRI, and eye-tracking.
+I received my PhD from the University of Toronto and am now a Post-doctoral Scholar in the social psychology area at The Ohio State University. My research takes a social cognition approach to studying stereotyping, prejudice, and discrimination using a variety of methods including behavioural studies, computational modeling, fMRI, and eye-tracking.
 
 I am interested in the low-level cognitive processes that function to maintain prejudice, inequality, and group hierarchies. Acknowledging that racism and sexism are structural phenomena, my aim is to bridge levels of analysis to discover how contexts and systems influence individual cognitions, as well as how individuals in turn perpetuate systems.
 
