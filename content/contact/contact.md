@@ -25,6 +25,8 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
   
+  email: allidina.1@osu.edu
+  
 design:
   columns: '1'
 
