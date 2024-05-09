@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: suraiya.allidina@mail.utoronto.ca
+email: allidina.1@osu.edu
 #phone:
 address:
-  street: 100 St George St
-  city: Toronto
-  region: 'ON'
-  postcode: M5S 3G3
-  country: Canada
-  country_code: Can
+  street: 1827 Neil Ave
+  city: Columbus
+  region: 'OH'
+  postcode: 43210
+  country: United States of America
+  country_code: USA
 contact_links:
   - icon: twitter
     icon_pack: fab
