@@ -7,7 +7,7 @@ summary: "In a third line of work, I examine how people navigate trade-offs betw
 In follow-up work, I turned to understanding the neural mechanisms of these effects. I am currently using neuroimaging to examine the differential processes involved in navigating self-other tradeoffs for ingroup and outgroup members."
 
 
-weight: 3
+weight: 4
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 date: "2021-09-29"

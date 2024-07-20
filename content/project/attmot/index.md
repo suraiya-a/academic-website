@@ -6,7 +6,7 @@ My postdoctoral work examines these questions in two ways. First, I use similari
 
 tags:
 date: "2021-09-29"
-weight: 2
+weight: 3
 view: 5
 
 # added this to remove project page
