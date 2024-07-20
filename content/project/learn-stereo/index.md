@@ -1,18 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Learning effects on stereotype formation"
-summary: "In a third line of research, I examine how some of the basic processes involved in learning and category formation may contribute to the stereotypes and prejudice that we see in the world.
+title: "The formation of stereotypes & social categories through learning"
+summary: "One line of research examines how basic processes of learning and category formation contribute to stereotypes and bias. This research found a critical role for avoidance in maintaining inaccurate negative stereotypes (Allidina & Cunningham, 2021, JEP: General), both by removing opportunities for information-gain and by directly reinforcing further avoidance.
 
-
-One way we have looked at this is in the context of avoidance: in a series of behavioural studies and computational models, we find that avoidance of a social group based on initial negative experiences perpetuates inaccurate negative stereotypes in two ways. First, avoidance removes the opportunity to learn about a group, thus preventing any update of initial negative beliefs. Second, avoidance itself has self-reinforcing effects, such that initial avoidance of a group makes subsequent avoidance of that group even more likely.
-
-
-I also examine this question in the context of learning order. In collaboration with Michael Mack, I am using computational models of category formation to look at how the order in which someone learns about groups and contexts influences the types of conclusions and stereotypes they are likely to form."
+Further, follow-up work demonstrated that avoidance alters the very structure of perceivers’ social representations (Allidina, Mack, & Cunningham, under review). Using computational models of category learning, my collaborators and I found that environments in which avoidance prevented information-gain were less likely to produce individuation, especially for particularly prejudiced people."
 authors: []
 tags: []
 categories: []
-date: "2021-09-29"
+date: ""
 weight: 4
 view: 5
 

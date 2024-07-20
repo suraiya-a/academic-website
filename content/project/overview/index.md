@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Overview"
-summary: Overall, my work aims to span across levels of analysis to learn about how stereotypes, prejudice, and group inequalities are produced and maintained over time. I aim to examine how systemic-level factors may influence individual-level cognitions, and how these individual-level cognitions in turn contribute to systemic-level factors to maintain structural inequalities.
+title: ""
+summary: I study the social cognitive processes involved in creating stereotypes and prejudice, with a focus on how these processes interface with structural motivations and environments. I approach these topics with a variety of methodological tools, including behavioural studies, computational models, eye-tracking, and neuroimaging.
 authors: []
 tags: []
 categories: []
-date: "2021-09-29"
+date: ""
 weight: 1
 view: 5
 

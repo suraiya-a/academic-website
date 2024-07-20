@@ -1,16 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Intergroup decision-making under self-group conflict
-summary: "In another line of research, I examine how people navigate trade-offs between what is good for themselves and what is good for their groups. Using a combination of behavioural, eye-tracking, and fMRI methodologies, I look at how typically seen patterns of intergroup bias, in which people aim to help their own groups and hurt other groups, are influenced by the degree of self-sacrifice required to make a prosocial decision. Some examples of questions this work aims to answer are:
+title: Intergroup decision-making under conflicting goals for self and other
+summary: "In a third line of work, I examine how people navigate trade-offs between their goals to help themselves, to help their ingroup members, and to help or hurt outgroup members (Allidina & Cunningham, 2024, JESP). In a series of behavioural and eye-tracking experiments, I found that different goals are pursued in a sequential manner: when people are unable to help themselves, they shift their attention to their ingroup (but not to the outgroup), greatly increasing the amount they try to help their own group members.
 
-- Do the mechanisms contributing to helping an ingroup member and helping an outgroup member become more similar when helping requires a lot of self-sacrifice? 
+In follow-up work, I turned to understanding the neural mechanisms of these effects. I am currently using neuroimaging to examine the differential processes involved in navigating self-other tradeoffs for ingroup and outgroup members."
 
-- How is conflict between self and other represented differently depending on whether the other is close to you (an ingroup member) or more distant from you (an outgroup member)? 
-
-- What types of processes contribute to costly prosocial behaviour, in which someone gives up something for themself to help someone else, and how do these processes change depending on who the other person is? 
-
-- Does helping an ingroup member rely on the same types of cognitive processes as helping an outgroup member?"
 
 weight: 3
 # Optional external URL for project (replaces project detail page).
