@@ -45,4 +45,3 @@ url_video: ""
 slides: ""
 ---
 
-Overall, my work aims to span across levels of analysis to learn about how stereotypes, prejudice, and group inequalities are produced and maintained over time. I aim to examine how systemic-level factors may influence individual-level cognitions, and how these individual-level cognitions in turn contribute to systemic-level factors to maintain structural inequalities.
