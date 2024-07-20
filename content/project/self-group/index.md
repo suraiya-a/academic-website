@@ -3,7 +3,7 @@
 
 title: Intergroup decision-making under conflicting goals for self and other
 summary: "In a third line of work, I examine how people navigate trade-offs between their goals to help themselves, to help their ingroup members, and to help or hurt outgroup members (Allidina & Cunningham, 2024, JESP). In a series of behavioural and eye-tracking experiments, I found that different goals are pursued in a sequential manner: when people are unable to help themselves, they shift their attention to their ingroup (but not to the outgroup), greatly increasing the amount they try to help their own group members.
-
+<br><br>
 In follow-up work, I turned to understanding the neural mechanisms of these effects. I am currently using neuroimaging to examine the differential processes involved in navigating self-other tradeoffs for ingroup and outgroup members."
 
 
