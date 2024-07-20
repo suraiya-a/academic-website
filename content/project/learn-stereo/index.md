@@ -3,7 +3,7 @@
 
 title: "The formation of stereotypes & social categories through learning"
 summary: "One line of research examines how basic processes of learning and category formation contribute to stereotypes and bias. This research found a critical role for avoidance in maintaining inaccurate negative stereotypes (Allidina & Cunningham, 2021, JEP: General), both by removing opportunities for information-gain and by directly reinforcing further avoidance.
-
+<br><br>
 Further, follow-up work demonstrated that avoidance alters the very structure of perceivers’ social representations (Allidina, Mack, & Cunningham, under review). Using computational models of category learning, my collaborators and I found that environments in which avoidance prevented information-gain were less likely to produce individuation, especially for particularly prejudiced people."
 authors: []
 tags: []

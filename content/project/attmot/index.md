@@ -1,7 +1,7 @@
 ---
 title: Motivated attention in social categorization
 summary: "My current work revolves around the role of motivation in social categorization. I examine how motivations stemming from structural inequalities and shared schemas can influence the way we organize the social world through attention (Allidina & Cunningham, 2023, PSPR). Rather than assuming that people simply divide the social world into the most salient categories available to them, this work aims to uncover how the very categories we form can perpetuate systemic inequalities. 
-<br>
+<br><br>
 My postdoctoral work examines these questions in two ways. First, I use similarity perceptions to examine the relative weight perceivers place on dimensions like race, gender, and age when making sense of others. Second, I use artificial social groups to understand the causal effects of motivations and the mechanisms through which they act on attention."
 
 tags:
