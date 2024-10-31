@@ -55,6 +55,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://ca.linkedin.com/in/suraiya-allidina-b8a584112
+- icon: custom/osf_black
+  link: 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
