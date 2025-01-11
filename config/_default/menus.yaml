@@ -20,6 +20,6 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/CV 10-31-2024.pdf
+    url: uploads/CV 01-11-2025.pdf
     weight: 50
 
