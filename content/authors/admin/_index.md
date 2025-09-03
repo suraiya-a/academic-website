@@ -10,7 +10,7 @@ role: Post-doctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The Ohio State University
+- name: McGill University
 #  url: https://socialcognitivescience.ca/
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,10 +42,10 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:allidina.1@osu.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/SuraiyaAllidina
+  link: 'mailto:suraiya.allidina@mcgill.ca'
+- icon: "bluesky"
+  icon_pack: custom
+  link: https://bsky.app/profile/suraiyaallidina.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=SBuBkg4AAAAJ&hl=en&oi=ao
@@ -72,8 +72,8 @@ email: ""
 highlight_name: true
 ---
 
-I received my PhD from the University of Toronto and am now a Post-doctoral Scholar in the social psychology area at The Ohio State University. My research takes a social cognition approach to studying stereotyping, prejudice, and discrimination using a variety of methods including behavioural studies, computational modeling, fMRI, and eye-tracking.
+I am currently a Postdoctoral Researcher in the Psychology Department at McGill University. My research takes a social-cognitive approach to studying stereotyping, prejudice, and discrimination using a variety of methods including behavioural studies, computational modeling, fMRI, and eye-tracking.
 
-I am interested in the low-level cognitive processes that function to maintain prejudice, inequality, and group hierarchies. Acknowledging that racism and sexism are structural phenomena, my aim is to bridge levels of analysis to discover how contexts and systems influence individual cognitions, as well as how individuals in turn perpetuate systems.
+I am interested in the bi-directional relationship between cognitive processes (e.g., learning and categorization) and structural factors (e.g., status hierarchies and resource inequalities). My aim is to bridge levels of analysis to discover how contexts and systems influence individual cognitions, as well as how individuals in turn perpetuate systems.
 
 In my spare time, you can find me watching women’s soccer, reading fantasy novels, or learning how to whittle.

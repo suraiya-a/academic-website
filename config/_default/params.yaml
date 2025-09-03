@@ -20,20 +20,21 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: allidina.1@osu.edu
+email: suraiya.allidina@mcgill.ca
 #phone:
-address:
-  street: 1827 Neil Ave
-  city: Columbus
-  region: 'OH'
-  postcode: 43210
-  country: United States of America
-  country_code: USA
+#address:
+#  street: 1827 Neil Ave
+#  city: Columbus
+#  region: 'OH'
+#  postcode: 43210
+#  country: United States of America
+#  country_code: USA
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter
-    link: 'https://twitter.com/SuraiyaAllidina'
+  - icon: "bluesky"
+    icon_pack: "custom"
+    name: BlueSky
+    link: 'https://bsky.app/profile/suraiyaallidina.bsky.social'
+
 
 # Site header
 
