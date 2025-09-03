@@ -25,7 +25,7 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
   
-  email: allidina.1@osu.edu
+  email: suraiya.allidina@mcgill.ca
   
 design:
   columns: '1'
