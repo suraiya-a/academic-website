@@ -43,8 +43,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:suraiya.allidina@mcgill.ca'
-- icon: bluesky
-  icon_pack: custom
+- icon: custom/bluesky
   link: https://bsky.app/profile/suraiyaallidina.bsky.social
 - icon: google-scholar
   icon_pack: ai

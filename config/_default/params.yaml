@@ -30,8 +30,7 @@ email: suraiya.allidina@mcgill.ca
 #  country: United States of America
 #  country_code: USA
 contact_links:
-  - icon: bluesky
-    icon_pack: "custom"
+  - icon: custom/bluesky
     name: BlueSky
     link: 'https://bsky.app/profile/suraiyaallidina.bsky.social'
 
