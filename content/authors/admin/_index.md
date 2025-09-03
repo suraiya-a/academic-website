@@ -6,7 +6,7 @@ title: Suraiya Allidina
 superuser: true
 
 # Role/position/tagline
-role: Post-doctoral Scholar
+role: Post-doctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -43,7 +43,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:suraiya.allidina@mcgill.ca'
-- icon: "bluesky"
+- icon: bluesky
   icon_pack: custom
   link: https://bsky.app/profile/suraiyaallidina.bsky.social
 - icon: google-scholar
